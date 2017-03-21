@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="registrodepersonas">Registro De Personas</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="borrar">Borrar</string>
+    <string name="primerNombre">Primer Nombre</string>
+    <string name="segundoNombre" >Segundo Nombre</string>
+    <string name="primerApellido">Primer Apellido</string>
+    <string name="segundoApellido">Segundo Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+</resources>
